@@ -1,7 +1,7 @@
 # _ Anki Deck
 An anki deck of/for _
 
-[Download](https://github.com/cutthroat78/Branches-of-Science-Anki-Deck/releases/latest/download/)
+[Download](https://github.com/cutthroat78/_/releases/latest/download/)
 
 ## Note Type(s) Used 
 
